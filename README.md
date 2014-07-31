@@ -7,7 +7,7 @@ This is a XML formatted Quran Database. It has a DTD (Document Type Definition) 
 
 ## Compiled and Signed by Hendy Irawan
 
-[Hendy Irawan](http://www.hendyirawan.com) compiled this, signed all files with Hendy Irawan <ceefour666@gmail.com> [key 5A9AC703](https://pgp.mit.edu/pks/lookup?op=get&search=0xFEDB960B5A9AC703) using `--detach-sign --textmode --armor` and shared under Apache License 2.0.
+[Hendy Irawan](http://www.hendyirawan.com) compiled this, signed all files with Hendy Irawan <ceefour666@gmail.com> [key 5A9AC703](https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0xFEDB960B5A9AC703) using `--detach-sign --textmode --armor` and shared under Apache License 2.0.
 
 You can check the signatures using `gpg --verify-files *.xml.asc`
 
